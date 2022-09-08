@@ -1,4 +1,4 @@
-I am @Santiago-Balcero from Bogotá, Colombia. Anthropologist and photographer for several years I have now decided to focus in learning programming and starting a career as a software developer.
+I am Santiago Balcero from Bogotá, Colombia. Software developer trainee.
 
 Contact via santiagobalcero@gmail.com
-Linkedin: linkedin.com/in/SantiagoBalcero
+Linkedin: [linkedin.com/in/SantiagoBalcero](linkedin.com/in/SantiagoBalcero)
