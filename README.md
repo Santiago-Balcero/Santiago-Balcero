@@ -4,4 +4,4 @@ Contact via santiagobalcero@gmail.com
 
 Linkedin: [linkedin.com/in/SantiagoBalcero](linkedin.com/in/SantiagoBalcero)
 
-Python // Java // SQL
+Python | Java | JavaScript | SQL | HTML | CSS
