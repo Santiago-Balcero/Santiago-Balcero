@@ -1,4 +1,4 @@
-## Santiago Balcero.
+## Santiago Balcero
 ### Software developer trainee.
 ### Bogotá, Colombia.
 
