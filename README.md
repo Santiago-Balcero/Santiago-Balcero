@@ -1,4 +1,6 @@
-Santiago Balcero. Software developer trainee. Bogotá, Colombia.
+## Santiago Balcero.
+### Software developer trainee.
+### Bogotá, Colombia.
 
 Contact via santiagobalcero@gmail.com
 
