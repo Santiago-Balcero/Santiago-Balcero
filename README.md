@@ -1,10 +1,10 @@
 ## Santiago Balcero
-### Jr Software Developer.
-### Bogotá, Colombia.
+### Software Developer
+### Bogotá, Colombia
 
-Software developer with knowledge and experience developing APIs with Spring Boot, FastAPI, Express and SPAs with Angular.
-Programming languages and technologies: Java, Spring Boot, Python, FastAPI, Javascript, PL/SQL, TypeScript, Node.Js, Angular, MySql, Oracle DB, MongoDB, Google Cloud Platform.
+Software developer with knowledge and experience building RESTful APIs with FastAPI, Spring Boot and Express and SPAs with Angular. Experience with Oracle Database (PL/SQL), MySQL and MongoDB. Basic knowledge of Google Cloud Platform.
+Technologies: Python, FastAPI, TypeScript, Node.Js, Express, Angular, Java, Spring Boot, Javascript, PL/SQL, MySQL, Oracle Database, MongoDB, Google Cloud Platform.
 
-Contact via santiagobalcero@gmail.com
+Contact: santiagobalcero@gmail.com
 
 Linkedin: [linkedin.com/in/SantiagoBalcero](linkedin.com/in/SantiagoBalcero)
