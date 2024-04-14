@@ -1,9 +1,11 @@
 ## Santiago Balcero
-### Software Developer
-### Bogotá, Colombia
 
-Software developer and anthropologist with knowledge and experience in digital banking products.  
-Technologies: TypeScript, Go, Node.Js, Express, Angular, Python, FastAPI, Java, Spring Boot, Quarkus, Javascript, React Native, PL/SQL, MySQL, Oracle Database, PostgreSQL, MongoDB, GCP, AWS.
+Software Developer and Anthropologist with experience building web applications and backend systems. Strong interest and knowledge in digital products within the financial sector and in digital identity management. Technology is for making the world a better place for all of us.
+
+Technologies: TypeScript, Go, Node.js, Express, React Native, Angular, Gin, Python, FastAPI, Java, Spring Boot, JavaScript, PL/SQL, MySQL, Oracle Database, PostgreSQL, MongoDB, DynamoDB, AWS, GCP, Git.
+
 Contact: santiagobalcero@gmail.com
 
 Linkedin: [linkedin.com/in/SantiagoBalcero](linkedin.com/in/SantiagoBalcero)
+
+##### Bogotá, Colombia
