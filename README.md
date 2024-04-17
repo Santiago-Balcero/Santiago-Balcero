@@ -6,6 +6,6 @@ Technologies: TypeScript, Go, Node.js, Express, React Native, Angular, Gin, Pyth
 
 Contact: santiagobalcero@gmail.com
 
-Linkedin: [linkedin.com/in/SantiagoBalcero](linkedin.com/in/SantiagoBalcero)
+Linkedin: [linkedin.com/in/Santiago-Balcero](linkedin.com/in/Santiago-Balcero)
 
 ##### Bogotá, Colombia
